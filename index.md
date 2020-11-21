@@ -1,3 +1,3 @@
 <a href="javascript:function my_bookmarklet()
-                {alert('Hello World');}
+                {var epoch = getTime();;alert(epoch);}
                 my_bookmarklet();">Hello</a>
