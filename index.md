@@ -10,3 +10,6 @@ function myFunction() {
 };
 myFunction();">UID Generator</a>  
 Drag the link to your bookmark bar to save it :)
+
+## Useful Index Pooling App
+https://checkmyindex.pasteur.fr/
